@@ -1,0 +1,17 @@
+.container {
+    transition: all 0.5s;
+}
+
+.colEv {
+    padding: 30pt;
+}
+
+.title {
+    text-align: center;
+    margin-top: 15pt;
+}
+
+.btn-cols {
+    text-align: center;
+    padding: 5pt;
+}
